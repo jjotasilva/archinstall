@@ -250,7 +250,9 @@
         "wireplumber",
         "logrotate",
         "gamemode",
-        "lib32-gamemode"
+        "lib32-gamemode",
+        "firefox",
+        "firefox-i18n-pt-br"
     ],
     "parallel_downloads": 10,
     "profile_config": {
