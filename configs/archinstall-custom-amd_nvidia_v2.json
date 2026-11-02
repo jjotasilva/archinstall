@@ -255,7 +255,10 @@
         "gamemode",
         "lib32-gamemode",
         "firefox",
-        "firefox-i18n-pt-br"
+        "firefox-i18n-pt-br",
+        "kup",
+        "bup",
+        "rsync"
     ],
     "parallel_downloads": 10,
     "profile_config": {
