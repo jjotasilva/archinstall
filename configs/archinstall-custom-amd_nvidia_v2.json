@@ -266,7 +266,7 @@
     ],
     "parallel_downloads": 10,
     "profile_config": {
-    "gfx_driver": "Nvidia (open kernel module for newer GPUs, Turing+)",
+    "gfx_driver": "AMD / ATI (open-source)",
     "greeter": "plasma-login-manager",
         "profile": {
             "custom_settings": {
