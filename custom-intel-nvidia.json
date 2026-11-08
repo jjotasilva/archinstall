@@ -194,6 +194,7 @@
         "lib32-mesa",
         "nvidia-utils",
         "lib32-nvidia-utils",
+        "nvidia-settings",
         "konsole",
         "nano-syntax-highlighting",
         "dolphin",
