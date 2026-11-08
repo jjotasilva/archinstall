@@ -246,7 +246,7 @@
         "gst-plugins-bad",
         "gst-plugins-ugly",
         "ttf-meslo-nerd",
-        "power-profiles-daemon",
+        "tuned",
         "lact",
         "goverlay",
         "mangohud",
