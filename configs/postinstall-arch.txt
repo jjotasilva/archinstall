@@ -823,6 +823,11 @@ Available profiles:
 - virtual-guest               - Optimize for running inside a virtual guest
 - virtual-host                - Optimize for running KVM guests
 
+#Trocar profile
+sudo tuned-adm profile balanced
+ou
+sudo tuned-adm profile virtual-guest
+
 # Editar o mapeamento dos perfis do KDE/PPD
 sudo nano /etc/tuned/ppd.conf
 
